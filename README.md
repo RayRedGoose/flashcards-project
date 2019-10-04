@@ -4,7 +4,7 @@
 
 This project includes three extensions in addition to functionality above: a second dataset written by the author, implementation of the second dataset for a second round of the game, and a timer that captures and displays how long it took to complete a each round.
 
-![flash cards example gif](https://drive.google.com/open?id=1To71j7KvXlJxplX6sW3j1KU6i-G4dNuT)
+![flash cards example gif](https://photos.google.com/photo/AF1QipNf7sTnw0LUfLT0rz8RSF2K5tABQOfhmb-FbaEd)
 
 ## Initial Setup
 
